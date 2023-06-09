@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data_label_group.Rproj
+# IDEs
+.idea/
+
+# Hugo
+/resources/
+public/
+assets/jsconfig.json
